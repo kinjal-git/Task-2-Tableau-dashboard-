@@ -8,7 +8,6 @@ Tools Used: Tableau 2025.1
 <br>
 <br>
 Task summary:
-<br>
 1. Imported data in the data source.
 <br>
 2. Created graphs and plots for visualisation.
