@@ -6,10 +6,8 @@ Dataset used: Adidas US Sales Datasets.xlsx
 <br>
 Tools Used: Tableau 2025.1
 <br>
-<br>
 Task summary:
 1. Imported data in the data source.
-<br>
 2. Created graphs and plots for visualisation.
 <br>
 3. Developed some filters using effective parameters.
